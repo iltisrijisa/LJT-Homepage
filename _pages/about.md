@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). I graduated from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Professor Junxian He during my undergraduate studies.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
@@ -37,22 +37,20 @@ Skills
 
 Publications
 ======
-(* denotes equal contribution; \* denotes corresponding author as applicable)
-
 2025
 ----
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-  Arxiv, 2025. First author. Code: [GitHub](https://github.com/ Vicent0205/SynLogic) (see my GitHub).
+  Arxiv, 2025. First author.
 - **On the Perception Bottleneck of VLMs for Chart Understanding**  
   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-  Arxiv, 2025. First author. Code: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart).
+  Arxiv, 2025. First author. Code: Vision4Chart.
 
 2024
 ----
 - **On the Universal Truthfulness Hyperplane Inside LLMs**  
   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
-  EMNLP 2024. First author. Code: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane).
+  EMNLP 2024. First author. Code: Universal_Truthfulness_Hyperplane.
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
   ICML 2024.
